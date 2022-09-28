@@ -1,0 +1,32 @@
+{
+  "name": "druzhcom_hw2",
+  "version": "1.0.0",
+  "description": "Implementing ERC-20, ERC-721, ERC-1155 for fun and for homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1scoDancer/druzhcom_hw2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D1scoDancer/druzhcom_hw2/issues"
+  },
+  "homepage": "https://github.com/D1scoDancer/druzhcom_hw2#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
