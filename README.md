@@ -1,2 +1,2 @@
-# druzhcom_hw2
-Implementing ERC-20, ERC-721, ERC-1155 for fun and for homework
+# druzhcom_hw3
+Using web3.js for a simple contract
